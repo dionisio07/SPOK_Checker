@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1544175121 source:c:\users\dio\documents\tubes tba\tubes\main.cpp
+	<iostream>
+	"pda.h"
+
+1544109205 source:c:\users\dio\documents\tubes tba\tubes\stack.cpp
+	"stack.h"
+
+1544108963 c:\users\dio\documents\tubes tba\tubes\stack.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+
+1544109318 source:c:\users\dio\documents\tubes tba\tubes\pda.cpp
+	"pda.h"
+
+1544075401 c:\users\dio\documents\tubes tba\tubes\pda.h
+	"stack.h"
+
